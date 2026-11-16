@@ -1,0 +1,6 @@
+{
+  "name": "SpaceEdu",
+  "description": "A full-viewport space-themed hero section for SpaceEdu featuring interactive planet switching between Earth, Venus, and Mars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
